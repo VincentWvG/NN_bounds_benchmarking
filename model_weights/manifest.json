@@ -1,0 +1,210 @@
+{
+  "format": "PyTorch state_dict files; load with torch.load(path, map_location=\"cpu\", weights_only=True)",
+  "generated_models_per_architecture": 5,
+  "generated_architectures": [
+    [
+      2,
+      256,
+      256,
+      1
+    ],
+    [
+      2,
+      256,
+      256,
+      256,
+      1
+    ]
+  ],
+  "files": [
+    {
+      "file": "tanh_2-256-256-1_01.pt",
+      "architecture": [
+        2,
+        256,
+        256,
+        1
+      ],
+      "activation": "tanh after every hidden affine layer; linear output",
+      "dtype": "torch.float32",
+      "initialization": "torch.nn.Linear default reset_parameters (Kaiming-uniform weights; uniform biases)",
+      "seed": 9027517466973677249,
+      "sha256": "29c72461320f49254a1a8217d2f3357e342c0c35db0cff56969fdcfc52f6fac9",
+      "bytes": 270565
+    },
+    {
+      "file": "tanh_2-256-256-1_02.pt",
+      "architecture": [
+        2,
+        256,
+        256,
+        1
+      ],
+      "activation": "tanh after every hidden affine layer; linear output",
+      "dtype": "torch.float32",
+      "initialization": "torch.nn.Linear default reset_parameters (Kaiming-uniform weights; uniform biases)",
+      "seed": 3854919055477629911,
+      "sha256": "bd4971fdb7ddda736dade50aeb91261abf4880dad0bcffd966bc5cd0acf47bb8",
+      "bytes": 270565
+    },
+    {
+      "file": "tanh_2-256-256-1_03.pt",
+      "architecture": [
+        2,
+        256,
+        256,
+        1
+      ],
+      "activation": "tanh after every hidden affine layer; linear output",
+      "dtype": "torch.float32",
+      "initialization": "torch.nn.Linear default reset_parameters (Kaiming-uniform weights; uniform biases)",
+      "seed": 5131974537010356620,
+      "sha256": "88754fcb3c06e146b6c44bc93286106e4cbd9d9ef96b4675eb094deb8eeadf75",
+      "bytes": 270565
+    },
+    {
+      "file": "tanh_2-256-256-1_04.pt",
+      "architecture": [
+        2,
+        256,
+        256,
+        1
+      ],
+      "activation": "tanh after every hidden affine layer; linear output",
+      "dtype": "torch.float32",
+      "initialization": "torch.nn.Linear default reset_parameters (Kaiming-uniform weights; uniform biases)",
+      "seed": 5301238190978048993,
+      "sha256": "0b3c239e4b4b3093dff90e56d06d0a7565a21e388559887e65a410ba076980f5",
+      "bytes": 270565
+    },
+    {
+      "file": "tanh_2-256-256-1_05.pt",
+      "architecture": [
+        2,
+        256,
+        256,
+        1
+      ],
+      "activation": "tanh after every hidden affine layer; linear output",
+      "dtype": "torch.float32",
+      "initialization": "torch.nn.Linear default reset_parameters (Kaiming-uniform weights; uniform biases)",
+      "seed": 828889487159899044,
+      "sha256": "517dca0f29cb4095383655be7b0849d54332fb816c3cc4c1b701c8549fefc547",
+      "bytes": 270565
+    },
+    {
+      "file": "tanh_2-256-256-256-1_01.pt",
+      "architecture": [
+        2,
+        256,
+        256,
+        256,
+        1
+      ],
+      "activation": "tanh after every hidden affine layer; linear output",
+      "dtype": "torch.float32",
+      "initialization": "torch.nn.Linear default reset_parameters (Kaiming-uniform weights; uniform biases)",
+      "seed": 4352121764570525571,
+      "sha256": "deea1055c4733f2d2f5b36b2898d6f2e3b56c698f58a5881ca373e650a74ae84",
+      "bytes": 534445
+    },
+    {
+      "file": "tanh_2-256-256-256-1_02.pt",
+      "architecture": [
+        2,
+        256,
+        256,
+        256,
+        1
+      ],
+      "activation": "tanh after every hidden affine layer; linear output",
+      "dtype": "torch.float32",
+      "initialization": "torch.nn.Linear default reset_parameters (Kaiming-uniform weights; uniform biases)",
+      "seed": 1220906830327787109,
+      "sha256": "116cf2f900785131141bd2eba5d66524f832085039dc77f76223b66736669f9e",
+      "bytes": 534445
+    },
+    {
+      "file": "tanh_2-256-256-256-1_03.pt",
+      "architecture": [
+        2,
+        256,
+        256,
+        256,
+        1
+      ],
+      "activation": "tanh after every hidden affine layer; linear output",
+      "dtype": "torch.float32",
+      "initialization": "torch.nn.Linear default reset_parameters (Kaiming-uniform weights; uniform biases)",
+      "seed": 699285971351001376,
+      "sha256": "36c2c494b66d71d70aa57893addc1908184d20990bb02c258b90a25e1f2cdaa8",
+      "bytes": 534445
+    },
+    {
+      "file": "tanh_2-256-256-256-1_04.pt",
+      "architecture": [
+        2,
+        256,
+        256,
+        256,
+        1
+      ],
+      "activation": "tanh after every hidden affine layer; linear output",
+      "dtype": "torch.float32",
+      "initialization": "torch.nn.Linear default reset_parameters (Kaiming-uniform weights; uniform biases)",
+      "seed": 6105322969865214098,
+      "sha256": "28e6e31607d117c353e498a560d40a3955de78c680bee1b163ba5e1535ca83d6",
+      "bytes": 534445
+    },
+    {
+      "file": "tanh_2-256-256-256-1_05.pt",
+      "architecture": [
+        2,
+        256,
+        256,
+        256,
+        1
+      ],
+      "activation": "tanh after every hidden affine layer; linear output",
+      "dtype": "torch.float32",
+      "initialization": "torch.nn.Linear default reset_parameters (Kaiming-uniform weights; uniform biases)",
+      "seed": 2044013292414729717,
+      "sha256": "bd0b4118864670fa5966de134624a4e1a3803c6a67b6f0d0e5fd610d5aeda947",
+      "bytes": 534445
+    },
+    {
+      "file": "heat_2d_separable_L2_W128_netbounds.pt",
+      "kind": "copied NetBounds 2D Heat checkpoint",
+      "source_path": "/home/vincent/repos/NetBounds/trained_models/Heat/2d_separable/num_layers2_width128/num_layers2_width128_weights.pt",
+      "source_repo": "65industries/NetBounds-dev (local checkout /home/vincent/repos/NetBounds)",
+      "source_commit": "89a18fc5a937b26541dd3def2fb3757f18c17a4a",
+      "architecture": [
+        3,
+        128,
+        128,
+        1
+      ],
+      "activation": "tanh after every hidden affine layer; linear output",
+      "dtype": "torch.float32",
+      "sha256": "ca190c503c6056e559354ad254ab006f272af2530df0c97784d0bdb4f8de8bb0",
+      "bytes": 72081
+    },
+    {
+      "file": "heat_1d_separable_L2_W128_netbounds.pt",
+      "kind": "copied NetBounds 1D Heat checkpoint",
+      "source_path": "/home/vincent/repos/NetBounds/trained_models/Heat/1d_separable/num_layers2_width128/num_layers2_width128_weights.pt",
+      "source_repo": "65industries/NetBounds-dev (local checkout /home/vincent/repos/NetBounds)",
+      "source_commit": "89a18fc5a937b26541dd3def2fb3757f18c17a4a",
+      "architecture": [
+        2,
+        128,
+        128,
+        1
+      ],
+      "activation": "tanh after every hidden affine layer; linear output",
+      "dtype": "torch.float32",
+      "sha256": "fb1f6f1d8dc628c84f561a05b0f5c9b2ef1537d93be4fac8c427f13c722efb68",
+      "bytes": 71569
+    }
+  ]
+}
